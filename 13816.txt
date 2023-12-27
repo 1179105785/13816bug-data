@@ -1,0 +1,8 @@
+Failed to fetch settings
+                                                                                                    java.lang.InterruptedException
+                                                                                                    	at anki.get(SourceFile:89)
+                                                                                                    	at dyv.a(SourceFile:5)
+                                                                                                    	at wsr.a(SourceFile:7)
+                                                                                                    	at com.google.android.libraries.youtube.common.gcm.YouTubeGcmTaskService.a(SourceFile:18)
+                                                                                                    	at com.google.android.libraries.youtube.common.gcore.gcoreclient.gcm.impl.GcmTaskServiceDelegator.a(SourceFile:11)
+                                                                                                    	at qbk.run(SourceFile:18)
